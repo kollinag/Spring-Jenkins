@@ -15,6 +15,7 @@ public class SpringJenkinsTest {
 	@Test
 	public void hai() {
 		logger.info("hai");
+		jjj
 		assertEquals(true,true);
 	}
 
